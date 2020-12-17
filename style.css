@@ -72,6 +72,9 @@ h2{
 {
 	margin: 0px;
 }
+  .navbar-toggle{
+  	display: none;
+  }
   .col-md-1 {
     width: 8.33%;
   }
@@ -116,6 +119,9 @@ h2{
 {
    margin: 0px 40px 0px 40px;
 }
+  .navbar-toggle{
+  	display: none;
+  }
   .col-sm-1 {
     width: 8.33%;
   }
